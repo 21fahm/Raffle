@@ -1,0 +1,20 @@
+{
+  "name": "lottery",
+  "author": "Shawn Kimtai",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.13",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.15.0",
+    "hardhat-deploy": "^0.11.30",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solhint": "^3.4.1",
+    "solidity-coverage": "^0.8.2"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "dotenv": "^16.1.4"
+  }
+}
